@@ -2654,6 +2654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Elevator construction
       objectReference: {fileID: 0}
+    - target: {fileID: 1462175635405280553, guid: 4c406e8d4e39b3b4a82d00a8b9addb59, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.367299
+      objectReference: {fileID: 0}
     - target: {fileID: 6392309076815129605, guid: 4c406e8d4e39b3b4a82d00a8b9addb59, type: 3}
       propertyPath: m_LocalScale.z
       value: 1.9
